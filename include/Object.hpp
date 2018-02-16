@@ -33,7 +33,7 @@ struct Object
     //////////////////////////////////////////////////   
     // Graphics //////////////////////////////////////
     // Model Information
-    Color color = Color(0,0,1.0,1);
+    Color color = Color(1,1,0,1);
     // Info for OpenGL
     GLushort offset;
     GLuint vertSize;
